@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        dailyRain-out-0:
+          destination: daily-rain
+          producer:
+            useNativeEncoding: true
+        process-in-0:
+          destination: daily-rain

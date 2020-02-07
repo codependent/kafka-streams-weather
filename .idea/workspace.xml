@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22733b55-526c-4719-8b73-656269ba1917" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XTmLuQDFMdNeIdjlZtTXYg8w1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.codependent.kafka.weather.configuration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KafkaWeatherApplication">
+    <configuration name="Tests in 'kafka-custom-windowing'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KafkaCustomWindowingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-streams-weather.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codependent.kafka.weather.KafkaCustomWindowingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaCustomWindowingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-custom-windowing.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codependent.kafka.weather.KafkaCustomWindowingApplicationKt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaWeatherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kafka-streams-weather.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codependent.kafka.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codependent.kafka.weather.KafkaWeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.KafkaWeatherApplication" />
+        <item itemvalue="Gradle.Tests in 'kafka-custom-windowing'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22733b55-526c-4719-8b73-656269ba1917" name="Default Changelist" comment="" />
+      <created>1581078405799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581078405799</updated>
+      <workItem from="1581078407204" duration="2364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1198" y="72" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581081201884">
+      <screen x="-1920" y="-28" width="1920" height="984" />
+    </state>
+    <state x="-1198" y="72" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1097/-1920.-28.1920.984@-1920.-28.1920.984" timestamp="1581081201884" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom" timestamp="1581081461707">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.-28.1920.980@-1920.-28.1920.980" timestamp="1581080770631" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461707" />
+    <state width="1878" height="326" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.-28.1920.984@-1920.-28.1920.984" timestamp="1581081207993" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center" timestamp="1581081461706">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.-28.1920.980@-1920.-28.1920.980" timestamp="1581080770630" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461706" />
+    <state width="1878" height="326" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.-28.1920.984@-1920.-28.1920.984" timestamp="1581081207992" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left" timestamp="1581081461706">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.-28.1920.980@-1920.-28.1920.980" timestamp="1581080770630" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461706" />
+    <state width="1878" height="326" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.-28.1920.984@-1920.-28.1920.984" timestamp="1581081207992" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right" timestamp="1581081461706">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.-28.1920.980@-1920.-28.1920.980" timestamp="1581080770631" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461706" />
+    <state width="1878" height="326" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.-28.1920.984@-1920.-28.1920.984" timestamp="1581081207993" />
+    <state width="1878" height="264" key="GridCell.Tab.1.bottom" timestamp="1581081461707">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.1.bottom/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461707" />
+    <state width="1878" height="264" key="GridCell.Tab.1.center" timestamp="1581081461707">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.1.center/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461707" />
+    <state width="1878" height="264" key="GridCell.Tab.1.left" timestamp="1581081461707">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.1.left/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461707" />
+    <state width="1878" height="264" key="GridCell.Tab.1.right" timestamp="1581081461707">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.1.right/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081461707" />
+    <state width="1878" height="326" key="GridCell.Tab.2.bottom" timestamp="1581081312838">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="326" key="GridCell.Tab.2.bottom/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081312838" />
+    <state width="1878" height="326" key="GridCell.Tab.2.center" timestamp="1581081312838">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="326" key="GridCell.Tab.2.center/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081312838" />
+    <state width="1878" height="326" key="GridCell.Tab.2.left" timestamp="1581081312838">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="326" key="GridCell.Tab.2.left/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081312838" />
+    <state width="1878" height="326" key="GridCell.Tab.2.right" timestamp="1581081312838">
+      <screen x="-1920" y="-28" width="1920" height="982" />
+    </state>
+    <state width="1878" height="326" key="GridCell.Tab.2.right/0.23.1792.1097/-1920.-28.1920.982@-1920.-28.1920.982" timestamp="1581081312838" />
+    <state x="-1351" y="187" width="782" height="550" key="find.popup" timestamp="1581078578403">
+      <screen x="-1920" y="-28" width="1920" height="980" />
+    </state>
+    <state x="-1351" y="187" width="782" height="550" key="find.popup/0.23.1792.1097/-1920.-28.1920.980@-1920.-28.1920.980" timestamp="1581078578403" />
+  </component>
+</project>
